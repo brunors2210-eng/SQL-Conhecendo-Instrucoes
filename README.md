@@ -1,0 +1,2 @@
+# SQL-Conhecendo-Instrucoes
+Este repositório reúne conteúdos e práticas desenvolvidas a partir do estudo de SQL básico, incluindo seleção de tabelas, criação e alteração de estruturas de banco de dados, aplicação de filtros, inserção de registros, utilização de filtros compostos, ordenação de dados, atualização de informações e exclusão de dados, com foco nos fundamentos de manipulação e consulta em bancos de dados relacionais.
